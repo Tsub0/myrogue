@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1673006830 source:c:\users\lhote\documents\roguebyme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+	"monstres.h"
+
+1673006830 h"
+
+1672957577 c:\users\lhote\documents\roguebyme\monstres.h
+
+1673010432 source:/media/bts_snir/LHOTE/RogueByme/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+	"monstres.h"
+
+1672961178 /media/bts_snir/LHOTE/RogueByme/monstres.h
+
